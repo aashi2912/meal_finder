@@ -9,3 +9,5 @@ Search and generate random meals from the themealdb.com API.
 <li>Click on meal and see the details </li> 
 <li>Click on generate button and fetch &amp; display a random meal</li> 
 </ul>
+
+https://aashithakkar-mealfinder.netlify.app/
